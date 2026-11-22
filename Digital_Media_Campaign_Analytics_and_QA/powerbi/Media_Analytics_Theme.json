@@ -1,0 +1,41 @@
+{
+  "name": "Media Analytics Navy Violet Teal",
+  "dataColors": [
+    "#6C63FF",
+    "#18A999",
+    "#3A86FF",
+    "#F4A261",
+    "#8E9AAF",
+    "#D1495B"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#14233B",
+  "tableAccent": "#6C63FF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "color": {
+              "solid": {
+                "color": "#14233B"
+              }
+            },
+            "fontSize": 12,
+            "fontFamily": "Aptos"
+          }
+        ],
+        "labels": [
+          {
+            "color": {
+              "solid": {
+                "color": "#5B6573"
+              }
+            },
+            "fontSize": 10
+          }
+        ]
+      }
+    }
+  }
+}

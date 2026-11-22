@@ -1,0 +1,8 @@
+check,result,interpretation
+Rows received,179,Count of rows in simulated agency intake
+Rows accepted into demo fact,173,Rows passing core validation and duplicate check
+Rows excluded,6,Invalid date/metrics or duplicate campaign-day row
+QA issue records,8,A source row may contain multiple issue codes
+Duplicate campaign-day rows,2,Duplicate key: parsed report date + campaign ID
+Clicks greater than impressions,1,Hard validation failure
+Negative media cost,1,Hard validation failure

@@ -1,0 +1,8 @@
+campaign_id,client,campaign_name,channel,platform,market
+CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN
+CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN
+CMP002,Northstar Retail,Summer Essentials,Paid Social,UNKNOWN_REVIEW,IN
+CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN
+CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN
+CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN
+CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN

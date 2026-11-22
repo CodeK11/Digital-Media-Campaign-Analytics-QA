@@ -1,0 +1,180 @@
+report_date,campaign_id,client,campaign_name,channel,platform,market,impressions,clicks,media_cost_inr,conversions,attributed_revenue_inr
+2026-08-01,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,25300.0,722,22445.23,29,17985.61
+2026-08-01,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,29146.0,665,3011.34,25,36301.29
+2026-08-01,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,10914.0,69,963.26,1,1315.99
+2026-08-01,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,25231.0,845,1797.14,27,59612.98
+2026-08-01,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,5020.0,28,437.79,1,906.09
+2026-08-01,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,21701.0,660,6746.92,37,44115.03
+2026-08-02,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,9378.0,148,3705.55,2,1823.43
+2026-08-02,CMP002,Northstar Retail,Summer Essentials ,Paid Social,Meta Ads,IN,8399.0,177,960.54,8,14659.19
+2026-08-02,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,16001.0,57,1627.74,3,5806.82
+2026-08-02,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,11299.0,128,1591.5,3,6288.97
+2026-08-02,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,21987.0,79,3426.42,1,962.65
+2026-08-02,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,21621.0,735,10176.71,17,9940.44
+2026-08-03,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,18449.0,419,11018.7,14,11663.4
+2026-08-03,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,7526.0,117,667.58,5,7469.07
+2026-08-03,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,24141.0,103,3798.63,4,7750.34
+2026-08-03,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,5583.0,118,987.84,5,6815.12
+2026-08-03,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,29843.0,76,3400.12,3,5100.47
+2026-08-03,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,15012.0,133,4220.95,6,3655.31
+2026-08-04,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,11651.0,13748,6567.01,6,13649.15
+2026-08-04,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,21608.0,650,3869.77,17,31200.92
+2026-08-04,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,11940.0,107,1283.31,1,1935.14
+2026-08-04,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,10436.0,324,1315.1,12,22022.62
+2026-08-04,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,19652.0,61,2413.54,2,3080.22
+2026-08-04,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,18400.0,517,4932.47,9,18204.79
+2026-08-05,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,18218.0,151,4702.81,6,9660.97
+2026-08-05,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,13189.0,83,-125.0,1,1352.62
+2026-08-05,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,10929.0,36,845.88,1,1269.7
+2026-08-05,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,9949.0,163,1107.48,10,19276.53
+2026-08-05,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,26319.0,156,3613.94,7,12345.36
+2026-08-05,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,23001.0,560,10929.12,7,16144.03
+2026-08-06,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,10943.0,342,7203.02,10,6197.31
+2026-08-06,CMP002,Northstar Retail,Summer Essentials,Paid Social,,IN,7949.0,194,1485.78,12,8442.12
+2026-08-06,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,21395.0,71,1934.48,1,786.53
+2026-08-06,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,16891.0,590,2451.59,15,13189.41
+2026-08-06,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,10745.0,101,1480.79,5,11129.04
+2026-08-06,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,22245.0,455,6281.47,23,53843.29
+2026-08-07,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,14948.0,434,11285.48,5,3189.36
+2026-08-07,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,7370.0,114,613.36,1,2317.5
+2026-08-07,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,6937.0,225,960.44,3,6422.09
+2026-08-07,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,14150.0,78,1326.86,4,8540.66
+2026-08-07,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,28924.0,984,24962.19,39,28578.79
+2026-08-08,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,16320.0,296,4999.54,13,28264.6
+2026/08/15,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,14719.0,316,1788.25,3,3613.62
+2026-08-08,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,10190.0,106,907.55,6,4969.13
+2026-08-08,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,14113.0,370,2652.07,13,8738.18
+2026-08-08,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,17342.0,78,2449.57,1,1539.44
+2026-08-08,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,15273.0,263,6256.44,11,23662.84
+2026-08-09,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,14903.0,252,2877.22,16,33140.32
+2026-08-09,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,11216.0,110,1858.53,5,5155.29
+2026-08-09,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,13572.0,80,2406.37,2,2557.88
+2026-08-09,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,12742.0,113,2389.88,5,8988.96
+2026-08-09,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,21038.0,180,1697.12,9,15467.76
+2026-08-09,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,26658.0,164,4474.34,7,16451.56
+2026-08-10,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,14448.0,285,2913.7,16,25752.59
+2026-08-10,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,11219.0,199,1997.12,6,10708.35
+2026-08-10,CMP002,Aster Mobility,City Launch,Video,YouTube Ads,IN,12014.0,55,1875.56,1,1381.46
+2026-08-10,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,18057.0,204,2608.75,10,11183.11
+2026-08-10,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,18153.0,197,2602.81,11,12161.66
+2026-08-11,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,25432.0,725,6800.29,11,19900.12
+2026-08-11,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,7748.0,149,882.82,2,1246.99
+2026-08-11,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,,207,2664.99,8,15560.73
+2026-08-11,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,19732.0,162,2260.65,7,10708.89
+2026-08-11,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,10829.0,364,3008.9,20,31426.32
+2026-08-12,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,6855.0,208,3745.57,3,6220.41
+2026-08-12,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,14407.0,488,1172.08,20,11964.26
+2026-08-12,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,18048.0,73,3147.95,1,2205.81
+2026-08-12,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,20071.0,469,1955.26,12,24955.06
+2026-08-12,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,20500.0,94,3464.03,3,1847.01
+2026-08-12,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,15731.0,323,9831.74,5,3554.32
+2026-08-13,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,7117.0,56,981.92,3,1965.0
+2026-08-13,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,16264.0,261,1447.36,12,7614.21
+2026-08-13,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,28475.0,99,4962.49,6,5196.82
+2026-08-13,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,14021.0,145,1332.72,4,4080.74
+2026-08-13,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,7969.0,44,592.85,1,2260.29
+2026-08-13,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,11158.0,325,8325.57,16,37907.77
+2026-08-14,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,10101.0,323,10052.5,18,17979.12
+2026-08-14,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,7594.0,52,1425.7,1,2279.99
+2026-08-14,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,25942.0,153,2594.36,2,3376.26
+2026-08-14,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,10809.0,281,980.75,3,3793.92
+2026-08-14,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,12590.0,36,1687.79,1,1981.05
+2026-08-14,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,25523.0,294,7895.9,5,10378.27
+2026-08-15,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,14378.0,368,4538.13,14,28321.79
+2026-08-15,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,20157.0,437,2962.14,24,53576.86
+2026-08-15,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,6464.0,40,592.57,2,1138.05
+2026-08-15,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,15163.0,375,2432.9,20,29203.81
+2026-08-15,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,25921.0,222,4237.93,12,9694.0
+2026-08-15,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,11166.0,302,5860.12,16,14363.0
+2026-08-16,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,11577.0,373,1776.78,23,14066.82
+2026-08-16,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,23246.0,158,2722.13,8,4739.8
+2026-08-16,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,25874.0,630,2405.64,22,32233.07
+2026-08-16,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,11982.0,129,1137.31,8,7551.83
+2026-08-16,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,20784.0,410,4605.04,25,31685.81
+2026-08-17,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,8155.0,122,3193.04,6,5962.99
+2026-08-17,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,27789.0,765,2166.62,23,31978.04
+2026-08-17,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,29118.0,62,2905.85,2,3125.51
+2026-08-17,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,23954.0,481,3761.72,6,9667.48
+2026-08-17,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,26682.0,149,2307.56,3,5207.83
+2026-08-17,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,7368.0,103,3139.03,2,1169.42
+2026-08-18,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,29811.0,582,17425.21,28,15461.61
+2026-08-18,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,20248.0,499,2638.51,7,7267.95
+2026-08-18,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,7946.0,59,1428.28,1,1698.07
+2026-08-18,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,19212.0,648,1885.73,10,18240.02
+2026-08-18,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,8700.0,87,1192.64,3,3116.99
+2026-08-18,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,29701.0,489,12374.12,17,20983.73
+2026-08-19,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,8589.0,191,2375.59,6,5972.12
+2026-08-19,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,19593.0,600,1727.99,10,20065.65
+2026-08-19,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,9178.0,69,799.65,1,1651.89
+2026-08-19,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,25182.0,234,2428.07,7,14635.64
+2026-08-19,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,29048.0,169,2127.1,2,3293.99
+2026-08-19,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,21423.0,590,5660.21,34,48888.28
+2026-08-20,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,23645.0,253,5231.06,5,10159.7
+2026-08-20,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,9442.0,136,1733.74,4,5681.2
+2026-08-20,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,19965.0,166,3602.67,10,16909.04
+2026-08-20,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,21184.0,738,3352.38,27,33919.07
+2026-08-20,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,17442.0,133,1686.7,6,7239.16
+2026-08-20,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,9346.0,258,2609.97,16,33979.42
+2026-08-21,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,28633.0,999,21020.01,26,31572.0
+2026-08-21,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,9203.0,57,1123.55,1,841.23
+2026-08-21,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,18058.0,95,3153.27,4,9408.34
+2026-08-21,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,27139.0,885,5016.25,24,16870.44
+2026-08-21,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,5912.0,16,465.76,0,0.0
+2026-08-21,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,23117.0,781,15980.86,14,31328.98
+2026-08-22,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,29758.0,717,14563.57,9,16285.99
+2026-08-22,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,14640.0,401,2507.46,7,3650.82
+2026-08-22,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,28927.0,272,2633.97,4,8605.69
+2026-08-22,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,21832.0,363,3881.24,20,18075.72
+2026-08-22,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,15849.0,156,2633.94,2,1974.44
+2026-08-22,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,17736.0,356,10931.18,17,27271.68
+2026-08-23,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,17708.0,297,3560.94,7,15419.47
+2026-08-23,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,11570.0,147,1271.57,9,5838.93
+2026-08-23,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,14215.0,148,2303.87,5,2647.33
+2026-08-23,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,7219.0,44,1051.59,1,573.3
+2026-08-23,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,16886.0,105,2940.01,2,4120.02
+2026-08-23,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,13157.0,332,3481.91,12,14262.64
+2026-08-24,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,5368.0,123,3642.77,5,3135.19
+2026-08-24,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,23890.0,343,4112.66,18,29013.87
+2026-08-24,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,15025.0,156,1996.14,7,4016.74
+2026-08-24,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,6186.0,67,821.79,2,4061.0
+2026-08-24,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,24955.0,269,4577.65,7,6071.58
+2026-08-24,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,16168.0,378,10631.85,15,16181.28
+2026-08-25,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,17277.0,563,6061.43,14,20332.57
+2026-08-25,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,8109.0,43,1192.2,2,4673.62
+2026-08-25,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,11006.0,315,1197.0,19,25449.72
+2026-08-25,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,15962.0,72,1417.71,2,4730.4
+2026-08-25,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,24024.0,562,9618.41,9,19704.06
+2026-08-26,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,17415.0,277,4606.7,7,11647.82
+2026-08-26,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,7762.0,177,816.22,2,2051.0
+2026-08-26,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,15640.0,72,1282.6,4,6292.9
+2026-08-26,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,10443.0,348,1768.03,9,6061.02
+2026-08-26,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,20736.0,439,13307.23,11,10414.28
+2026-08-27,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,19167.0,345,7287.09,10,19651.07
+2026-08-27,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,26724.0,260,2641.1,13,18018.86
+2026-08-27,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,9966.0,133,891.59,6,13926.25
+2026-08-27,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,18315.0,92,2702.4,1,1833.07
+2026-08-27,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,8258.0,176,2168.81,11,18440.81
+2026-08-28,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,19387.0,391,3128.48,7,7032.19
+2026-08-28,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,18061.0,166,2577.18,10,17227.35
+2026-08-28,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,27213.0,253,2925.7,4,4719.25
+2026-08-28,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,27587.0,96,1932.73,1,1684.03
+2026-08-28,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,5728.0,95,1808.4,2,2720.61
+2026-08-29,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,16570.0,131,2154.8,5,6209.98
+2026-08-29,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,9284.0,258,1306.69,4,5215.47
+2026-08-29,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,26505.0,241,4805.31,13,20230.08
+2026-08-29,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,19256.0,430,1475.56,15,11645.91
+2026-08-29,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,19470.0,134,1483.75,3,1771.86
+2026-08-29,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,17073.0,428,10206.77,14,15651.5
+2026-08-30,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,22709.0,615,14306.44,34,79518.08
+2026-08-30,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,27430.0,441,3450.36,27,41955.04
+2026-08-30,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,13679.0,86,1841.17,4,7008.19
+2026-08-30,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,11640.0,372,1698.2,7,9097.81
+2026-08-30,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,8213.0,36,896.86,2,1659.54
+2026-08-30,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,20287.0,344,9263.94,4,6848.85
+2026-08-31,CMP001,Northstar Retail,Summer Essentials,Search,Google Ads,IN,29871.0,958,23677.99,38,31356.5
+2026-08-31,CMP002,Northstar Retail,Summer Essentials,Paid Social,Meta Ads,IN,28362.0,785,2767.95,30,52391.78
+2026-08-31,CMP003,Aster Mobility,City Launch,Video,YouTube Ads,IN,17430.0,60,2347.41,1,1469.24
+2026-08-31,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,27865.0,737,3786.64,16,12297.52
+2026-08-31,CMP005,Cedar Finance,Awareness Q3,Display,Programmatic DSP,IN,18857.0,146,2306.09,7,9821.04
+2026-08-31,CMP006,Cedar Finance,Awareness Q3,Search,Google Ads,IN,19485.0,147,2734.81,8,11562.85
+2026-08-10,CMP004,Aster Mobility,City Launch,Paid Social,Meta Ads,IN,18057.0,204,2608.75,10,11183.11
